@@ -25,5 +25,6 @@ public class student {
         student.printInfo(ivan);
         igor.printInfo(igor);
         igor.printName();
+
     }
 }
